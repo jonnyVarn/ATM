@@ -1,0 +1,1 @@
+This is a ATM in terminal. Nothing fancy.
