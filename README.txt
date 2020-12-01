@@ -1,1 +1,1 @@
-This is a ATM in terminal. Nothing fancy.
+This is a ATM simulator in a terminal. Nothing fancy.
